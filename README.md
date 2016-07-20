@@ -12,5 +12,5 @@ A Parte IV vai trabalhar com os famosos Hooks "Before" e "After", onde iremos de
 
 Parte IV será divida nas seguintes partes:
 
-1. Conhecendo os Hooks Before e After;
+1. [Conhecendo os Hooks Before e After](https://github.com/thiagomarquessp/capybara_for_all_p4/blob/master/conhecendo_hooks_before_after.md);
 2. Aplicando o conceito.
