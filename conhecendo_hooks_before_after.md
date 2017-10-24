@@ -26,3 +26,5 @@ After ('@general') do
 end
 ```
 Para saber um pouco mais sobre os Hooks e suas propriedades, acessem o [github](https://github.com/cucumber/cucumber/wiki/Hooks) do cucumber e de lá o céu é o limite =).
+
+E essa a hora que aplicamos o [conceito](https://github.com/thiagomarquessp/capybara_for_all_p4/blob/master/aplicando_conceitos.md).
