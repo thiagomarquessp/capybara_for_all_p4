@@ -25,4 +25,4 @@ After ('@general') do
   # Segue o mesmo esquema do Before, só que agora ele faz um After específico para o fim de um cenário específico.
 end
 ```
-Para saber um pouco mais sobre os Hooks e suas propriedades, acessem o [github] (https://github.com/cucumber/cucumber/wiki/Hooks) do cucucmber e de lá o céu é o limite =).
+Para saber um pouco mais sobre os Hooks e suas propriedades, acessem o [github](https://github.com/cucumber/cucumber/wiki/Hooks) do cucucmber e de lá o céu é o limite =).
